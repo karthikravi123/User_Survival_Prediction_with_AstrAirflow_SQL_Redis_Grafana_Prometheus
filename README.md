@@ -1,6 +1,6 @@
-[index.html](https://github.com/user-attachments/files/23902676/index.html)
 
 
+<img width="1915" height="1006" alt="Screenshot 2025-12-03 152226" src="https://github.com/user-attachments/assets/aea24d48-75f7-4c08-a15c-b9bcc371b16b" />
 
 
 Step1 . install astro cli
