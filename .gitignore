@@ -16,3 +16,4 @@ plugins/
 mlops_project3.egg-info/
 include/
 .astro/
+.vscode/
