@@ -21,3 +21,9 @@ astro dev start
 docker pull redis
 
 docker run -d --name redis-container -p 6379:6379 redis
+
+===================
+Data Drift detection using - Alibi detect library
+
+====
+docker-compose up -d
