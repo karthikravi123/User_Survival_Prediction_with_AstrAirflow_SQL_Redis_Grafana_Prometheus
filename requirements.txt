@@ -1,0 +1,11 @@
+pandas
+numpy
+apache-airflow-providers-postgres
+apache-airflow-providers-google
+sqlalchemy
+psycopg2-binary
+#mysql connector
+psycopg2
+imbalanced-learn
+scikit-learn
+redis
